@@ -340,6 +340,9 @@ Dependency-Check is a utility that identifies project dependencies and checks if
 #### SCM API
 - This plugin provides a new enhanced API for interacting with SCM systems.
 
+####  SCM Sync Configuration
+- This plugin allows you to synchronize your hudson configuration files with an SCM, allowing you to specify a commit message every time a config file is modified.
+
 #### Script Security
 - Allows Jenkins administrators to control what in-process scripts can be run by less-privileged users.
 
